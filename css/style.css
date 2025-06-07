@@ -110,7 +110,7 @@ p {
 
 @font-face {
     font-family: 'name-font';
-    src: url('/fonts/name-font.otf') format('opentype');
+    src: url('https://ollie476.github.io/oliveranderson/fonts/name-font.otf') format('opentype');
 }
 
 
