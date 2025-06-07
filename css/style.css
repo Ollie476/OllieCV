@@ -87,6 +87,16 @@ p {
     margin-top: -0.5em;
 }
 
+.github-page a {
+    position: relative;
+    bottom: 20px;
+    font-size: 16px;
+    color: #545454;
+    font-style: italic;
+    text-decoration: none;
+    text-align: center;
+}
+
 @media (max-width: 768px) {
     .left {
         padding: 1em;
@@ -96,17 +106,6 @@ p {
     .left h1 {
         font-size: 2em;
     }
-}
-
-.github-page a {
-    position: relative;
-    bottom: 20px;
-    font-size: 16px;
-    color: #545454;
-    font-style: italic;
-    text-decoration: none;
-    text-align: center;
-
 }
 
 @font-face {
