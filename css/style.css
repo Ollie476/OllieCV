@@ -17,8 +17,8 @@ body {
 .container img {
     width: 65%;
     border-radius: 50%;
-    position: static; /* remove the relative positioning */
-    margin-top: 1em;   /* optional: adds spacing below the name */
+    position: static;
+    margin-top: 1em;
 }
 
 .left-column {
